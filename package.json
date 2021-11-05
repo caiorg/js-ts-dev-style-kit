@@ -1,0 +1,32 @@
+{
+    "name": "js-ts-dev-style-kit",
+    "displayName": "JS/TS Dev & Style Kit",
+    "description": "A collection of extensions to improve your development speed and visual experience.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "adam-bender.commit-message-editor",
+        "albert.TabOut",
+        "capaj.vscode-exports-autocomplete",
+        "christian-kohler.npm-intellisense",
+        "codezombiech.gitignore",
+        "dbaeumer.vscode-eslint",
+        "DominicVonk.parameter-hints",
+        "eamodio.gitlens",
+        "EditorConfig.EditorConfig",
+        "esbenp.prettier-vscode",
+        "formulahendry.code-runner",
+        "mikestead.dotenv",
+        "PKief.material-icon-theme",
+        "Shan.code-settings-sync",
+        "steoates.autoimport",
+        "usernamehw.errorlens",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "wwm.better-align"
+    ]
+}
